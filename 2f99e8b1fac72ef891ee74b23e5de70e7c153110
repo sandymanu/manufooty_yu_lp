@@ -1,1 +1,1 @@
- Heteregeneous ARM platform uses arch_scale_freq_power function to reflect the relative capacity of each core
+Heteregeneous ARM platform uses arch_scale_freq_power function to reflect the relative capacity of each core
